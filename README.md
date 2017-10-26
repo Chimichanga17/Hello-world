@@ -1,4 +1,4 @@
-# Hello-world
+# Hello-world(didn't change the default title so people won't open it....I'M A GENIUS!!!..LOL..JK)
 My first repository ^_^..(whatever that is)
 
 This is my commit message..........
